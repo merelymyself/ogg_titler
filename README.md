@@ -1,7 +1,7 @@
 # ogg_titler
 
 Have you ever downloaded more than 500 .ogg files in a totally legal manner to add to your music playlist, only to find that they lack a title?
-Has that ever irked you so much such that you wished there was a tool to ensure you didn't have to manually rename them?
+Has that ever irked you so much such that you wished there was a tool to ensure you didn't have to manually assign titles to them?
 Fear no longer!
 ogg_titler is a shellscript that lets you set titles to any amount of .ogg files!
 What's special about ogg_titler?
